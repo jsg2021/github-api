@@ -1,0 +1,14 @@
+{
+	"name": "@jsg2021/github-api",
+	"version": "1.0.0",
+	"description": "Wrapper for octokit based CLI tools",
+	"main": "index.js",
+	"type": "module",
+	"license": "MIT",
+	"dependencies": {
+		"@octokit/rest": "^18.0.0",
+		"chalk": "^4.1.0",
+		"inquirer": "^8.0.0",
+		"netrc": "0.1.4"
+	}
+}
